@@ -22,4 +22,5 @@ Pull 연습 중 ...
 
 - footer.md 파일 추가
 
+## search 추가
 ## 사이드바 추가
